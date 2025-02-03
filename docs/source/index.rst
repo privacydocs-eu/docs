@@ -1,22 +1,10 @@
-Welcome to Lumache's documentation!
+PrivacyDocs Technical Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`PrivacyDocs <https://privacydocs.eu>`_ is an online tool for creating and managing GDPR and AI compliance of your business in a self-service way.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+PrivacyDocs is offering a rich user interface available throught the web browser, and a REST API to integrate with other systems operated by your company.
 
-.. note::
+This space is devoted to the REST API and its usage. It is built in addition to the `PrivacyDocs API code repository <https://github.com/privacydocs-eu/api>`_ where some code samples are located.
 
-   This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
