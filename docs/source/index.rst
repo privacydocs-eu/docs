@@ -7,4 +7,7 @@ PrivacyDocs is offering a rich user interface available throught the web browser
 
 This space is devoted to the REST API and its usage. It is built in addition to the `PrivacyDocs API code repository <https://github.com/privacydocs-eu/api>`_ where some code samples are located.
 
+API
+===
 
+The `REST API of PrivacyDocs is described here <api.html>`_.
